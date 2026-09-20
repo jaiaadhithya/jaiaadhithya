@@ -9,6 +9,7 @@ I work on product and systems: full-stack TypeScript, evaluation pipelines, and 
 
 ## Selected work
 
+- **The StemPark Qatar LMS** ([app.thestempark.com](https://app.thestempark.com)) - live learning platform for courses, students, and tutors
 - **Oryx** ([mozaic](https://github.com/jaiaadhithya/mozaic)) - multi-model LLM workspace in TypeScript, React, and Convex
 - **M.A.S.H.** - OCR parcel-routing system built with DHL Qatar (800 packages/hour; PCT patent, U.S. 63/842,305)
 - **Data poisoning detection** ([SCD 2026](https://github.com/VIDITJAIN7/Data-Poisoning-Detection-Pipeline-for-SCD-2026)) - label-flip and backdoor eval; stacked Cleanlab with backdoor mitigation
